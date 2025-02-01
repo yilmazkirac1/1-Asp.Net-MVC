@@ -1,8 +1,8 @@
-# MVC
+# 📌 MVC
 
 ASP.NET Core tabanlı bir web uygulaması.
 
-## Özellikler
+## 📖 İçerik  
 
 - **MVC Mimarisine Dayalı**: Models, Views ve Controllers kullanılarak geliştirilmiştir.
 - **HTTP**: Web isteklerini işlemek için HTTP protokolü desteklenir.
